@@ -1,7 +1,18 @@
-# Welcome to streamlit
+# 🦜🔗 LangChain - Ask the Doc
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+Build a Document Question Answering app using LangChain and Streamlit.
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+## Demo App
 
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://langchain-ask-the-doc.streamlit.app/)
+
+## Get an OpenAI API key
+
+You can get your own OpenAI API key by following the following instructions:
+1. Go to https://platform.openai.com/account/api-keys.
+2. Click on the `+ Create new secret key` button.
+3. Next, enter an identifier name (optional) and click on the `Create secret key` button.
+
+## Try out the app
+
+Once the app is loaded, go ahead and enter your OpenAI API key and type a question in the text box and wait for a generated response.
