@@ -2,6 +2,5 @@ streamlit
 langchain
 langchain-community
 openai==1.25.2
-pysqlite3-binary
 chromadb
 tiktoken
