@@ -4,4 +4,4 @@ langchain-community
 openai==1.25.2
 chromadb
 tiktoken
-sqlite3
+pysqlite3-binary
